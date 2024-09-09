@@ -1,0 +1,12 @@
+.optionsSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  padding: 5px;
+  margin-left: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}

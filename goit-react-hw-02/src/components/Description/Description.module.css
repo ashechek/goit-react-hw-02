@@ -1,0 +1,13 @@
+.descriptionSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.descriptionSection h1 {
+  font-weight: 800;
+}
+.descriptionSection p {
+  font-size: 20px;
+  font-style: italic;
+}
